@@ -1,2 +1,1 @@
-# Inventory-Management
 # Library-Management
