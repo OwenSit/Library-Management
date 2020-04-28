@@ -1,0 +1,6 @@
+Three_Men_in_a_Boat Jerome_K._Jerome 1889 T
+To_Kill_a_Mockingbird Harper_Lee 1960 T
+Jane_Eyre Charlotte_Bronte 1847 T
+Catch-22 Joseph_Heller 1961 T
+The_Catcher_in_the_Rye J._D._Salinger 1951 T
+Rebecca Daphne_du_Maurier 1938 T
